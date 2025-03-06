@@ -1,0 +1,721 @@
+{
+  "version": "1.0",
+  "data": [
+    {
+      "title": "Armor and Arms",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What mixture of metals is bronze composed of?",
+              "id": "1",
+              "answers": [
+                {
+                  "text": "Bronze is a mixture of copper and tin.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "When did the Chinese begin making bronze arms?",
+              "id": "2",
+              "answers": [
+                {
+                  "text": "Two thousand years before Christ the Chinese were making bronze arms.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is steel?",
+              "id": "3",
+              "answers": [
+                {
+                  "text": "Steel is not a separate metal; it is just iron which contains from about .5% to about 2.5%, of carbon.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What happens when steel is heated to redness and quickly cooled?",
+              "id": "4",
+              "answers": [
+                {
+                  "text": "It becomes much harder than before. It also becomes more brittle.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is tempering steel?",
+              "id": "5",
+              "answers": [
+                {
+                  "text": "Tempering is when hardened steel is heated a second time, not red hot but to a much lower temperature, and again chilled. The hardness is reduced somewhat, while the brittleness is reduced a great deal; the metal becomes tough and suitable for making into tools.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What happened if iron has too much carbon?",
+              "id": "6",
+              "answers": [
+                {
+                  "text": "If there is too much carbon it is harder than mild steel, but is very brittle indeed; this is called 'cast iron'.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is chain mail?",
+              "id": "7",
+              "answers": [
+                {
+                  "text": "Chain mail is a fabric made of interlinked rings of iron wire.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How was early wire for chain mail produced?",
+              "id": "8",
+              "answers": [
+                {
+                  "text": "At first this was done with the hammer: a billet of iron was pounded with a hammer held in one hand, while the other kept the billet rotating so that its diameter became less and less until it was small enough to be made up into links of mail.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How was later wire for chain mail produced?",
+              "id": "9",
+              "answers": [
+                {
+                  "text": "Later it was found that a rod of iron could be pulled by tongs through a hole in a hardened steel plate, thus reducing its diameter and giving it a uniform thickness. By drawing it through a number of holes of progressively smaller diameter, the wire could be made quite thin and entirely uniform.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How were rings for chain mail produced?",
+              "id": "10",
+              "answers": [
+                {
+                  "text": "Wire could be wound in a coil around an iron rod, and the coil then cut lengthwise with a chisel or saw giving a large number of links all of the same size.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How were links joined in good chain mail?",
+              "id": "11",
+              "answers": [
+                {
+                  "text": "All good chain mail was strengthened by having the ends of every link overlapped, slightly flattened, and then riveted.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was the difference between Eastern and European chain mail rivets?",
+              "id": "12",
+              "answers": [
+                {
+                  "text": "In the Middle East, the rivet was a separate piece of fine wire. European chain mail is more of a mystery, but was likely either using a separate rivet inserted more skillfully, welded, or riveted by a swaging process.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How many links might a complete coat of chain mail contain?",
+              "id": "13",
+              "answers": [
+                {
+                  "text": "Some complete coats of mail contain over 200,000 links.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Why are forgeries of antique chain mail practically non-existent?",
+              "id": "14",
+              "answers": [
+                {
+                  "text": "They would cost more to make than genuine specimens, rare as they are, would be worth today.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What were the disadvantages of chain mail?",
+              "id": "15",
+              "answers": [
+                {
+                  "text": "It was expensive, easily attacked by rust, most difficult to clean, heavy and uncomfortable, and its flexibility provided little protection against a blow.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was usually worn beneath chain mail?",
+              "id": "16",
+              "answers": [
+                {
+                  "text": "To make it of any use in battle against heavy swords, maces, and battle axes it was necessary to wear beneath it a very heavily padded garment.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was 'Gothic' armor and when was it produced?",
+              "id": "17",
+              "answers": [
+                {
+                  "text": "Gothic armor refers to complete outfits of plate armor from about 1460. It was metallurgically superior, functionally well-designed with clean curved lines to deflect blows, and artistically elegant, relying on pure sculptural lines rather than ornament.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'salade'?",
+              "id": "18",
+              "answers": [
+                {
+                  "text": "A salade is a type of helmet that is a simple steel hat, like that of a modern soldier, that covers the head down to the end of the nose with a narrow slit in front of the eyes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What characterized 'Maximilian' style armor?",
+              "id": "19",
+              "answers": [
+                {
+                  "text": "It was characterized by parallel, or almost parallel, fluting, especially on breastplate and thigh guards, by broad-toed foot guards (sollerets) as compared with the long pointed toes of the Gothic period, and by strongly roped edges of the plates.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Who was Maximilian I and why was armor named after him?",
+              "id": "20",
+              "answers": [
+                {
+                  "text": "Maximilian I was King (later Emperor) of Germany and Austria at the beginning of the sixteenth century. He was greatly interested in arms and armor, and frequently visited his court armorer in his workshop. He had a great influence on the design of armor, and the new fashion which appeared at this time became known as the 'Maximilian'.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What were the three types of armor produced in the 16th century?",
+              "id": "21",
+              "answers": [
+                {
+                  "text": "Military armor, tournament armor, and parade armor.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was the difference between military and tournament armor?",
+              "id": "22",
+              "answers": [
+                {
+                  "text": "Tournament armor, used for short periods of time, could be considerably heavier than the military armor which a man might have to wear continuously. Decoration on tournament armor was reduced to a minimum, while military armor could have moderate decoration provided it didn't lessen functionality.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was parade armor?",
+              "id": "23",
+              "answers": [
+                {
+                  "text": "Parade armor was the lightest yet the most elaborate of all. Not intended for actual combat in either war or sport, it did not require the fundamental functionality of the other types; the armorers were free to follow their fancy and make the decoration as elaborate as they pleased.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How was etching on armor done?",
+              "id": "24",
+              "answers": [
+                {
+                  "text": "Armorers would take a helmet or breastplate, paint it all over with a heavy acid-proof varnish, scratch a design through this varnish with a sharp needle, then place the metal in a bath of acid. The acid would eat away the steel where the varnish had been scratched, but not elsewhere.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is 'true damascene' in armor decoration?",
+              "id": "25",
+              "answers": [
+                {
+                  "text": "True damascene is when plates or wires of gold (or silver) were actually inlaid into undercut grooves in the steel much as a dentist would fill a tooth.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is 'false damascene' in armor decoration?",
+              "id": "26",
+              "answers": [
+                {
+                  "text": "False damascene is when the precious metal was applied in the form of foil and rubbed onto the steel surface which had previously been roughened by tool work to produce innumerable tiny sharp points which could be burnished down to hold the foil firmly in place.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How was gilding done on etched armor?",
+              "id": "27",
+              "answers": [
+                {
+                  "text": "Gilding was done by rubbing the freshly etched surface with a mixture of gold and mercury, then heating the metal to evaporate the mercury and leave behind the gold firmly attached to the steel.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How heavy was a typical suit of military armor?",
+              "id": "28",
+              "answers": [
+                {
+                  "text": "A good military suit weighs no more than the pack carried by a modern soldier, sixty pounds or less.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How was the weight of a good suit of armor distributed?",
+              "id": "29",
+              "answers": [
+                {
+                  "text": "A good suit of armor, carefully made to fit the individual body of the wearer, has its weight distributed over the entire body. The helmet rests partly on the head and partly on the shoulders. The breast and backplates rest partly on the shoulders and partly on the hips. The arm and leg guards are laced to the special undergarment which had always to be worn with armor, and each limb supports its own protection.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a common misconception about armored knights?",
+              "id": "30",
+              "answers": [
+                {
+                  "text": "That an armored man, once fallen, could not get up again until he was hoisted with a derrick. In fact, a man wearing a properly fitting suit of armor over the correct undergarment could do anything that a modern man can do wearing a winter overcoat, and probably, due to his special training, a number of things that the modern man could not.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What are 'lames' in plate armor?",
+              "id": "31",
+              "answers": [
+                {
+                  "text": "Lames are narrow, overlapping steel strips, each of which was riveted in turn to one or more leather straps, the ends of which were fastened to the solid main defense. As the body was flexed the steel strips would slide over one another without exposing the body beneath them.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What are 'sliding rivets' or 'Almain rivets' in armor?",
+              "id": "32",
+              "answers": [
+                {
+                  "text": "If rivets were used with rather large heads with a washer under the burred end of each, and if the holes for the rivet in one lame were round while that in the other had the form of a slot, in addition to the pivoting motion, a certain amount of sideways motion between the lames would be possible.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Who wore armor in medieval times?",
+              "id": "33",
+              "answers": [
+                {
+                  "text": "Every man who could afford it. Armor was always very much of a luxury. A wealthy monarch might have a large wardrobe of beautifully decorated armor, a simple knight would be proud to possess a single suit, and a minor soldier was lucky if he could secure a simple ready-made breastplate and helmet.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Why did armorers rank highly among medieval craftsmen?",
+              "id": "34",
+              "answers": [
+                {
+                  "text": "Armorers were the aristocrats of all mediaeval craftsmen, the most highly respected and by far the best paid. They were not only expert metal workers, but also skilled draughtsmen, expert tailors, and keen students of human anatomy.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Why do suits of armor in museums often seem relatively small?",
+              "id": "35",
+              "answers": [
+                {
+                  "text": "Men had to learn their military duties very young, they had to have and to wear armor while they were still growing. Consequently they usually outgrew their first suit of armor, and it was this suit, unmarked by the scars of serious fighting, which was most likely to be preserved. The suits of armor in the world's collections are largely the outgrown suits of young men.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is 'char aina' in Persian armor?",
+              "id": "36",
+              "answers": [
+                {
+                  "text": "Char aina or 'the four mirrors' was a Persian body armor made of four rectangular plates. Two were worn as breast- and backplate respectively, the other two, made concave on the upper edge, were worn at the sides, the concavity fitting under the arm.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is 'Damascus steel'?",
+              "id": "37",
+              "answers": [
+                {
+                  "text": "Damascus steel is a type of metal especially suitable for armor and sword blades, made by the intimate combination, in innumerable layers, of two kinds of metal, one extremely hard, the other soft and tough. As billets of this composite steel were twisted, bent, and reformed, the superimposed layers made intricate patterns like those in watered silk.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How did Middle Eastern helmets differ from European ones?",
+              "id": "38",
+              "answers": [
+                {
+                  "text": "Probably because of the warmer climate, the Saracenic warriors never adopted the closed helmet of European lands, but preferred to leave the face exposed, or protected only by a nasal bar which was often so arranged that it could be slid upwards and clamped.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was the mace and who commonly used it?",
+              "id": "39",
+              "answers": [
+                {
+                  "text": "The mace was a short one-handed club. Even in the middle of the sixteenth century, it was the accepted weapon of military men in holy orders who, forbidden to shed blood, found no such prohibition against the bloodless cracking of skulls.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How did sword design evolve from ancient to medieval times?",
+              "id": "40",
+              "answers": [
+                {
+                  "text": "Stone Age man could not make true swords due to brittle materials. Bronze Age swords were shorter and adapted for thrusting. By the 15th century, swords had long, straight, double-edged blades with longer crossbars and hilts for better balance. This evolved into enormous two-handed swords by the 16th century.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How did sword fighting techniques change during the 16th century?",
+              "id": "41",
+              "answers": [
+                {
+                  "text": "As the sixteenth century advanced, sword blades became narrower, lighter, and more adapted for thrusting, while guards developed rings and curved knuckle-guards to protect the out-thrust hand. The new method of fighting had definite advantages over the old slashing system, which required the sword to be raised high, exposing the body, before a blow could be struck.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'rapier'?",
+              "id": "42",
+              "answers": [
+                {
+                  "text": "A rapier is a thrusting sword with a system of rings forming the guard that eventually coalesced into a solid metal cup, which completely shielded the hand within it.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'court sword'?",
+              "id": "43",
+              "answers": [
+                {
+                  "text": "A court sword has a short, single-handed hilt, a small flat guard often magnificently decorated in chiselled steel, and a relatively short, light blade having a needle-like point, and often without any sharp cutting edge at all.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What types of daggers were popular in the 15th century?",
+              "id": "44",
+              "answers": [
+                {
+                  "text": "The rondel dagger which had guard and pommel in the form of disks, and the kidney dagger which had a straight, simple hilt and a short guard of ball-like form.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'trousse'?",
+              "id": "45",
+              "answers": [
+                {
+                  "text": "A trousse was a complete outfit of small tools carried in the scabbard with a dagger; it was very convenient when preparing freshly-killed venison for the cook or when eating around a camp fire.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was the chief arm of the mounted knight?",
+              "id": "46",
+              "answers": [
+                {
+                  "text": "The lance, a weapon having a long and often quite heavy wooden shaft and a steel point.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'vamplate' on a lance?",
+              "id": "47",
+              "answers": [
+                {
+                  "text": "A vamplate is a conical hand guard of steel attached near the butt of a lance, just in front of the grip.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'graper' on a lance?",
+              "id": "48",
+              "answers": [
+                {
+                  "text": "A graper is a thick iron ring attached behind the grip of a lance, which, when the lance was in use, rested against the hook or lance-rest projecting from the right side of the knight's breastplate. The graper thus served as a thrust bearing, and put directly behind the point of the lance the entire momentum of horse and rider.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was the most common weapon of foot soldiers?",
+              "id": "49",
+              "answers": [
+                {
+                  "text": "The pike, which had a very simple steel point and butt ferrule respectively on the ends of a slender rod of wood about fourteen feet long.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How did pikemen defend against cavalry?",
+              "id": "50",
+              "answers": [
+                {
+                  "text": "A company of pikemen, formed into a square or circle, the front rank kneeling, the second standing, and both holding their pikes with the butts against the ground and the points projecting outward, was almost invulnerable to cavalry, whose horses would not charge against the forest of pike-points.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'partisan'?",
+              "id": "51",
+              "answers": [
+                {
+                  "text": "A partisan is a type of pole arm that developed from a spear, with projecting spurs at each side of the base, sometimes becoming large and ornamental for ceremonial purposes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was a 'halberd'?",
+              "id": "52",
+              "answers": [
+                {
+                  "text": "A halberd was an axe with a longer shaft, usually provided with a sharpened hook at the back of the axe blade to permit a man on foot to catch and cut the bridle rein of an attacking horseman.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How were military axes used in judicial combat?",
+              "id": "53",
+              "answers": [
+                {
+                  "text": "Military axes were particularly popular for use in judicial combats or 'trial by battle'. Each contestant in a law suit would swear to the truth of his claim, and call upon God to prove its truth. The two men, armed with such axes, would fight until one was killed or driven out of the ring. The victor was thus proven to have told the truth, while the unsuccessful contestant, if still alive, was executed for perjury.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was 'niello' in Middle Eastern weapon decoration?",
+              "id": "54",
+              "answers": [
+                {
+                  "text": "Niello was a black pigment used to fill in engraved lines on metal, such as on gold sword hilts.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a crossbow?",
+              "id": "55",
+              "answers": [
+                {
+                  "text": "A crossbow is simply a bow mounted on a wooden stock provided with a catch and trigger, so that the bow could be carried ready to shoot.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What advantages did the crossbow have over a regular bow?",
+              "id": "56",
+              "answers": [
+                {
+                  "text": "The crossbow was a great convenience in hunting or war, because otherwise the time lost in drawing the bow might give the victim opportunity to escape. Moreover, it permitted the use of a bow much stronger than any man could draw unaided.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'goat's foot' lever used for?",
+              "id": "57",
+              "answers": [
+                {
+                  "text": "A goat's foot lever was an instrument employed to pull the string back to the catch of a crossbow.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'cranequin' or 'cric'?",
+              "id": "58",
+              "answers": [
+                {
+                  "text": "A cranequin or cric is a device used to pull back the string of a powerful crossbow. It is essentially identical with a modern geared automobile jack, although it pulls instead of lifts. A force of fifty pounds applied to the handle generates on the claw which grasps the bowstring a pull of more than two tons.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was a 'prodd'?",
+              "id": "59",
+              "answers": [
+                {
+                  "text": "A prodd was a light crossbow with a double string and a little pouch attached between the two strands that shot small bullets instead of arrows. This type of light crossbow was especially popular with aristocratic ladies.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What are the four main types of firearms before the nineteenth century?",
+              "id": "60",
+              "answers": [
+                {
+                  "text": "The cannon or hand cannon, the matchlock, the wheellock, and the flintlock and its variations.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How did a hand cannon work?",
+              "id": "61",
+              "answers": [
+                {
+                  "text": "In the hand cannon, the charge of gunpowder was set off by direct application of a burning slow match or hot iron held by the shooter.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How did a matchlock gun work?",
+              "id": "62",
+              "answers": [
+                {
+                  "text": "In the matchlock, burning slow match or tinder was held in a clamp attached to the gun and was brought into contact with the gunpowder by a mechanism attached to the gun and operated by the shooter.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How did a wheellock mechanism work?",
+              "id": "63",
+              "answers": [
+                {
+                  "text": "In the wheellock, fire was produced by a mechanism like that of a modern cigarette lighter: a rough wheel was spun around in contact with a stone (not flint, but a nodular form of iron pyrite) so that sparks were produced to set off the gunpowder.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How did a flintlock mechanism work?",
+              "id": "64",
+              "answers": [
+                {
+                  "text": "In the flintlock, a piece usually of flint stone held in a clamp attached to a strong spring was moved by the spring to strike a piece of steel, and thereby generate the spark which would set fire to the gunpowder.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "When was the wheellock invented and how long was it used?",
+              "id": "65",
+              "answers": [
+                {
+                  "text": "The wheellock was invented in the early years of the sixteenth century and retained its popularity, in Germany at least, until the very end of the eighteenth. It thus has had a longer period of use than any other firearm with a discharge mechanism.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was a 'serpentine' in a matchlock gun?",
+              "id": "66",
+              "answers": [
+                {
+                  "text": "The serpentine was the part that holds the burning slow match and moves upon pressure of the trigger in the rearward direction, bringing the burning slow match into contact with the powder pan.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is 'slow match' in early firearms?",
+              "id": "67",
+              "answers": [
+                {
+                  "text": "Slow match was a piece of rope impregnated with saltpeter, which would burn slowly and consistently.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was a 'miguelet' lock?",
+              "id": "68",
+              "answers": [
+                {
+                  "text": "A miguelet was a peculiar type of early flintlock having an exposed mainspring.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was a 'snaphaunce' lock?",
+              "id": "69",
+              "answers": [
+                {
+                  "text": "A snaphaunce was an early flintlock variation in which the piece of steel struck by the flint was not attached to the cover of the pan holding the priming powder, but was entirely separate from it and could be turned back out of the way as a safety precaution, when immediate use of the arm was not expected.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What was a powder tester used for?",
+              "id": "70",
+              "answers": [
+                {
+                  "text": "The powder tester was like a pistol with a friction cover closing the mouth of the barrel. It was loaded (without a bullet) and fired. The force of the explosion blew the cover away from the barrel against the friction of a heavy spring; the distance which it moved gave an index of the strength of the gunpowder.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What is a 'tschinke'?",
+              "id": "71",
+              "answers": [
+                {
+                  "text": "A tschinke was a light hunting rifle with a very short stock, named from the fact that such guns were made at the town of Teschen in German Silesia.",
+                  "answer_start": 0
+                }
+              ]
+            },
+		}
+	}
+}

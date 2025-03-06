@@ -1,0 +1,454 @@
+{
+  "data": [
+    {
+      "context": "Arms and, later, armor have accompanied man throughout his history.",
+      "qas": [
+        {
+          "question": "What has accompanied humans throughout history?",
+          "answers": [
+            {
+              "text": "Arms and armor",
+              "answer_start": 0
+            }
+          ],
+          "id": "1"
+        }
+      ]
+    },
+    {
+      "context": "Bronze is a mixture of copper and tin, and it was invented a very long time ago, and in many different places.",
+      "qas": [
+        {
+          "question": "What metals compose bronze?",
+          "answers": [
+            {
+              "text": "copper and tin",
+              "answer_start": 18
+            }
+          ],
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "context": "Two thousand years before Christ the Chinese were making bronze arms and domestic and ceremonial objects of all sorts",
+      "qas": [
+        {
+          "question": "Which civilization was making bronze objects 2000 years before Christ?",
+          "answers": [
+            {
+              "text": "Chinese",
+              "answer_start": 34
+            }
+          ],
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "context": "From the Ordos region of Siberia, where a primitive culture lasted for a very long time, comes a particularly fine ceremonial dagger of bronze with inlays of turquoise.",
+      "qas": [
+        {
+          "question": "What material was used as inlay for daggers from Siberia?",
+          "answers": [
+            {
+              "text": "turquoise",
+              "answer_start": 156
+            }
+          ],
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "context": "From China again, dating throughout the thousand years before Christ, come numerous bronze weapons now in the Museum’s Study Collection, including swords, daggers, and, from about the beginning of the Christian Era, most ingenious mechanisms for the crossbow",
+      "qas": [
+        {
+          "question": "What weapons were the Chinese producing?",
+          "answers": [
+            {
+              "text": "swords, daggers, and crossbow",
+              "answer_start": 141
+            }
+          ],
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "context": "Although the Greeks made their armor out of bronze, they did have knowledge of iron, at least as early as the fifth century B.C. But it was extremely difficult for them to prepare, as they had not yet discovered efficient methods of smelting it from iron ore, so that what little they had was very precious.",
+      "qas": [
+        {
+          "question": "What material did the Greeks use for their armor?",
+          "answers": [
+            {
+              "text": "bronze",
+              "answer_start": 38
+            }
+          ],
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "context": "The Romans too used iron, and as their technical skill improved they used more and more of it.",
+      "qas": [
+        {
+          "question": "What material did the Romans use?",
+          "answers": [
+            {
+              "text": "iron",
+              "answer_start": 18
+            }
+          ],
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "context": "After the Roman empire was overwhelmed by the barbarian hordes from the North the making of fine arms languished.",
+      "qas": [
+        {
+          "question": "What happened to the making of fine arms after the fall of the Roman Empire?",
+          "answers": [
+            {
+              "text": "languished",
+              "answer_start": 98
+            }
+          ],
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "context": "occasionally discoveries are made of beautifully inlaid sword pommels and shield bosses belonging to the so-called “dark ages”.",
+      "qas": [
+        {
+          "question": "What objects are discovered from the Dark Ages?",
+          "answers": [
+            {
+              "text": "sword pommels and shield bosses",
+              "answer_start": 49
+            }
+          ],
+          "id": "9"
+        }
+      ]
+    },
+    {
+      "context": "Steel, you will remember, is not a separate metal; it is just iron which contains from about .5% to about 2.5%, of carbon.",
+      "qas": [
+        {
+          "question": "What is steel made of?",
+          "answers": [
+            {
+              "text": "iron which contains from about .5% to about 2.5%, of carbon",
+              "answer_start": 55
+            }
+          ],
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "context": "This publication is a guide to the armor and arms in the City Art Museum of St. Louis and, incidentally, a very elementary introduction to the history of arms and armor in general.",
+      "qas": [
+        {
+          "question": "What is the purpose of this publication?",
+          "answers": [
+            {
+              "text": "a guide to the armor and arms in the City Art Museum of St. Louis and, incidentally, a very elementary introduction to the history of arms and armor in general",
+              "answer_start": 16
+            }
+          ],
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "context": "The City Art Museum is, as its name implies, restricted to objects of art, to objects which, independently of their usefulness, are more or less beautiful by the intention of their makers.",
+      "qas": [
+        {
+          "question": "What kind of objects does the City Art Museum display?",
+          "answers": [
+            {
+              "text": "objects of art",
+              "answer_start": 59
+            }
+          ],
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "context": "There are numerous items in the vast range of armor and arms which do not fill this requirement, and are purely utilitarian.",
+      "qas": [
+        {
+          "question": "What characterizes some armor and arms items?",
+          "answers": [
+            {
+              "text": "purely utilitarian",
+              "answer_start": 107
+            }
+          ],
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "context": "Chain mail",
+      "qas": [
+        {
+          "question": "What is the name of an early type of flexible armor?",
+          "answers": [
+            {
+              "text": "Chain mail",
+              "answer_start": 0
+            }
+          ],
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "context": "The Museum possesses specimens of some of these. As they are not considered objects of art they are not on exhibition, but have been assembled in a special study collection where they can be seen on application to the Curator.",
+      "qas": [
+        {
+          "question": "Where can objects not considered art be found?",
+          "answers": [
+            {
+              "text": "a special study collection",
+              "answer_start": 153
+            }
+          ],
+          "id": "15"
+        }
+      ]
+    },
+     {
+      "context": "If specific questions concerning armor and arms are addressed to the Curator, City Art Museum, Forest Park, St. Louis 5, Missouri, accompanied by a self-addressed, stamped envelope, they will be answered as far as practicable, but research problems cannot be undertaken.",
+      "qas": [
+        {
+          "question": "What should be included when sending a question to the curator?",
+          "answers": [
+            {
+              "text": "a self-addressed, stamped envelope",
+              "answer_start": 202
+            }
+          ],
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "context": "Questions concerning armor",
+      "qas": [
+        {
+          "question": "What subject is being addressed?",
+          "answers": [
+            {
+              "text": "armor",
+              "answer_start": 20
+            }
+          ],
+          "id": "17"
+        }
+      ]
+    },
+    {
+      "context": "Middle Eastern armor",
+      "qas": [
+        {
+          "question": "From what region is armor being discussed?",
+          "answers": [
+            {
+              "text": "Middle Eastern",
+              "answer_start": 0
+            }
+          ],
+          "id": "18"
+        }
+      ]
+    },
+    {
+      "context": "Arms: striking and cutting weapons",
+      "qas": [
+        {
+          "question": "What are two types of weapons?",
+          "answers": [
+            {
+              "text": "striking and cutting",
+              "answer_start": 6
+            }
+          ],
+          "id": "19"
+        }
+      ]
+    },
+    {
+      "context": "Lances and pole arms",
+      "qas": [
+        {
+          "question": "What are two types of pole-based weapons?",
+          "answers": [
+            {
+              "text": "Lances and pole arms",
+              "answer_start": 0
+            }
+          ],
+          "id": "20"
+        }
+      ]
+    },
+    {
+      "context": "Middle Eastern edged weapons",
+      "qas": [
+        {
+          "question": "What type of weapon is being discussed?",
+          "answers": [
+            {
+              "text": "edged",
+              "answer_start": 15
+            }
+          ],
+          "id": "21"
+        }
+      ]
+    },
+    {
+      "context": "Projectile weapons: bows and crossbows",
+      "qas": [
+        {
+          "question": "What are some examples of projectile weapons?",
+          "answers": [
+            {
+              "text": "bows and crossbows",
+              "answer_start": 20
+            }
+          ],
+          "id": "22"
+        }
+      ]
+    },
+    {
+      "context": "Projectile weapons: firearms",
+      "qas": [
+        {
+          "question": "What is an example of a projectile weapon?",
+          "answers": [
+            {
+              "text": "firearms",
+              "answer_start": 20
+            }
+          ],
+          "id": "23"
+        }
+      ]
+    },
+    {
+      "context": "Bibliography",
+      "qas": [
+        {
+          "question": "What section lists books or articles?",
+          "answers": [
+            {
+              "text": "Bibliography",
+              "answer_start": 0
+            }
+          ],
+          "id": "24"
+        }
+      ]
+    },
+    {
+      "context": "“Gothic” armor",
+      "qas": [
+        {
+          "question": "What style is armor described as?",
+          "answers": [
+            {
+              "text": "Gothic",
+              "answer_start": 1
+            }
+          ],
+          "id": "25"
+        }
+      ]
+    },
+    {
+      "context": "“Maximilian” armor",
+      "qas": [
+        {
+          "question": "What style is armor described as?",
+          "answers": [
+            {
+              "text": "Maximilian",
+              "answer_start": 1
+            }
+          ],
+          "id": "26"
+        }
+      ]
+    },
+    {
+      "context": "Armor of the late xvi century: decorated armor",
+      "qas": [
+        {
+          "question": "What describes armor from the 16th century?",
+          "answers": [
+            {
+              "text": "decorated armor",
+              "answer_start": 28
+            }
+          ],
+          "id": "27"
+        }
+      ]
+    },
+    {
+      "context": "Late armor",
+      "qas": [
+        {
+          "question": "What is the described style of armor?",
+          "answers": [
+            {
+              "text": "Late armor",
+              "answer_start": 0
+            }
+          ],
+          "id": "28"
+        }
+      ]
+    },
+    {
+      "context": "St. Louis, Missouri",
+      "qas": [
+        {
+          "question": "What city is mentioned?",
+          "answers": [
+            {
+              "text": "St. Louis",
+              "answer_start": 0
+            }
+          ],
+          "id": "29"
+        }
+      ]
+    },
+     {
+      "context": "The first obvious weapons were stones, roughly shaped to make them more effective.",
+      "qas": [
+        {
+          "question": "What material was used to make early weapons?",
+          "answers": [
+            {
+              "text": "stones",
+              "answer_start": 33
+            }
+          ],
+          "id": "30"
+        }
+      ]
+    }
+  ]
+}

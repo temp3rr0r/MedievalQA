@@ -1,0 +1,125 @@
+{
+  "version": "1.0",
+  "data": [
+    {
+      "id": 1,
+      "question": "What was the primary purpose of defensive armor in medieval times?",
+      "answers": [
+        "The primary purpose of defensive armor was to protect the wearer from weapons and projectiles during battle.",
+        "Armor served to reduce the impact of enemy attacks and increase the survivability of the warrior."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How did the design of medieval armor evolve over time?",
+      "answers": [
+        "Medieval armor evolved from chainmail to plate armor, with improvements in articulation and coverage to better protect against increasingly powerful weapons.",
+        "Armorers adapted designs to counter new weapons, leading to advancements like full plate suits and articulated joints."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What was the main material used in making medieval armor?",
+      "answers": [
+        "Medieval armor was primarily made from iron and later steel, which provided greater durability and protection.",
+        "Early armor included materials like leather and bronze before transitioning to iron and steel."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What was the significance of the helmet in medieval armor?",
+      "answers": [
+        "The helmet was crucial for protecting the head from blows and projectiles, with various designs evolving to improve visibility, ventilation, and defense.",
+        "Different helmet styles, such as the great helm and bascinet, were developed for specific combat scenarios."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What was the role of chainmail in medieval armor?",
+      "answers": [
+        "Chainmail was an early form of flexible armor that provided protection against slashes and some piercing attacks while allowing mobility.",
+        "It was often worn under plate armor for additional protection."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What was the function of a gauntlet in medieval armor?",
+      "answers": [
+        "Gauntlets protected the hands and wrists from cuts and crushing blows while allowing dexterity for wielding weapons.",
+        "Some gauntlets were designed with articulated fingers, while others had mitten-like designs for better protection."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What were greaves used for in medieval armor?",
+      "answers": [
+        "Greaves were used to protect the lower legs from strikes, particularly from swords and polearms.",
+        "They were often made of steel or iron and secured with leather straps."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How did knights and soldiers identify themselves on the battlefield?",
+      "answers": [
+        "They identified themselves using heraldic symbols on their shields, surcoats, and banners to distinguish allies from enemies.",
+        "Colorful and unique coat of arms designs helped in recognition and prevented friendly fire."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What was the primary function of a shield in medieval combat?",
+      "answers": [
+        "A shield was used to block attacks, deflect projectiles, and provide an additional layer of defense in battle.",
+        "Shields were also used for offensive purposes, such as bashing opponents."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is a cuirass in the context of medieval armor?",
+      "answers": [
+        "A cuirass is a piece of plate armor covering the torso, protecting the chest and back from attacks.",
+        "It was often composed of two plates, a breastplate and a backplate, joined together."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What was the purpose of a visor on a helmet?",
+      "answers": [
+        "A visor provided face protection while allowing the wearer to lift it for better vision and breathing.",
+        "It helped guard against slashes and thrusts to the face while in combat."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What was the main advantage of plate armor over chainmail?",
+      "answers": [
+        "Plate armor offered superior protection against blunt force and piercing attacks compared to chainmail.",
+        "It was more resistant to arrows and sword strikes, though heavier than chainmail."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What is brigandine armor?",
+      "answers": [
+        "Brigandine armor consists of small metal plates riveted to a fabric or leather garment, providing both flexibility and protection.",
+        "It was commonly worn by soldiers and knights as a lighter alternative to full plate armor."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Why did knights wear surcoats over their armor?",
+      "answers": [
+        "Surcoats helped protect the armor from the elements and reduced heat absorption from the sun.",
+        "They were also used to display heraldic symbols for identification in battle."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What weapons were commonly used to counter plate armor?",
+      "answers": [
+        "Weapons like war hammers, maces, and poleaxes were designed to dent or puncture plate armor.",
+        "Longbows and crossbows could also pierce some types of armor, depending on range and shot placement."
+      ]
+    }
+  ]
+}
